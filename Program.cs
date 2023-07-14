@@ -6,7 +6,8 @@ namespace Logger
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Testwer");
+            Console.WriteLine("Utilize seu usuário e senha para acessar");
+            
         }
     }
 }
