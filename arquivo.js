@@ -1,0 +1,1 @@
+const constante = new Array()
